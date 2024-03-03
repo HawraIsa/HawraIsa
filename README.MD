@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FF713&random=false&width=435&lines=+Hi+There%2C+I'm+Hawra!+;%F0%9F%91%8B+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-🌱 I’m currently learning **golang, JS, RUST, AI and constantly learning and exploring new technologies to stay up-to-date with the latest trends.
+🌱 currently learning **golang, JS, RUST, AI and constantly learning and exploring new technologies to stay up-to-date with the latest trends.
 
-🔭 I'm interested in studying AI as a student at Reboot01 coding insstitute.
+🔭 interested in studying AI as a student at Reboot01 coding insstitute.
 
 ⚡ Fun fact : My love for matcha bubble tea knows no bounds! I've embarked on a quest to find the best matcha bubble tea in town, exploring different tea shops and experimenting with unique flavor combinations. From classic matcha milk tea to matcha with fruity boba, I'm on a never-ending journey to satisfy my matcha bubble tea cravings! 🍵🧋✨.
 
