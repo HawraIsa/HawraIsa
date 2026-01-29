@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FF713&random=false&width=435&lines=+Hi+There%2C+I'm+Hawra!+;%F0%9F%91%8B+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-🌱 currently learning **golang, JS, RUST, AI and constantly learning and exploring new technologies to stay up-to-date with the latest trends.
+🌱 currently learning **AI and constantly learning and exploring new technologies to stay up-to-date with the latest trends.
 
-🔭 interested in studying AI as a student at Reboot01 coding insstitute.
+🔭 interested in studying AI as a with a focus on machine learning.
 
-⚡ Fun fact : My love for matcha bubble tea knows no bounds! I've embarked on a quest to find the best matcha bubble tea in town, exploring different tea shops and experimenting with unique flavor combinations. From classic matcha milk tea to matcha with fruity boba, I'm on a never-ending journey to satisfy my matcha bubble tea cravings! 🍵🧋✨.
+⚡ Fun fact : Matcha bubble tea enthusiast 🍵🧋
+Always hunting for the perfect cup.. whether it’s classic matcha milk tea or bold new flavor twists. The search is part of the fun!
 
 [![](https://raw.githubusercontent.com/HawraIsa/HawraIsa/main/profile-summary-card-output/merko/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/HawraIsa/HawraIsa/main/profile-summary-card-output/merko/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/HawraIsa/HawraIsa/main/profile-summary-card-output/merko/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
