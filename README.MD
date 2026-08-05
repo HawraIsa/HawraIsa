@@ -11,9 +11,8 @@ building software with a focus on clean code, performance, and usability.
 
 - 🔭 Currently building full-stack and applied AI projects
 - 🌱 Expanding my knowledge of machine learning and system design
-- 💬 Ask me about Go, JavaScript, Python, Rust, APIs, or WebSockets
 - 📫 Reach me at: [hawra.isa94@gmail.com](mailto:hawra.isa94@gmail.com)
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 💼 [LinkedIn](www.linkedin.com/in/hawra-a-3a7b58162)
 - 🍵 Outside coding, I’m usually looking for a new matcha bubble tea to try
 
 ---
